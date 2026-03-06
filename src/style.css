@@ -76,4 +76,15 @@ body {
   border-radius: 7px;
   padding:10px 20px;
  }
+ .input {
+  width: 100%;
+  padding: 10px;
+  font-size: 15px;
+  border: 1px solid #999;
+  margin-bottom: 12px;
+}button:hover {
+  background-color: #029380;
+  transform: scale(1.1); 
+  transition: 0.3s; 
  }
+}
